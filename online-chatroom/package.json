@@ -1,0 +1,15 @@
+{
+  "name": "online-chatroom",
+  "version": "1.0.0",
+  "description": "An online chatroom with features like WhatsApp",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.4.1"
+  },
+  "author": "Alan",
+  "license": "MIT"
+}
