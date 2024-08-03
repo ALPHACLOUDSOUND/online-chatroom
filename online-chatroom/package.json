@@ -6,10 +6,19 @@
   "scripts": {
     "start": "node server/server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALPHACLOUDSOUND/online-chatroom.git"
+  },
+  "keywords": [],
+  "author": "ALAN WALKER",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ALPHACLOUDSOUND/online-chatroom/issues"
+  },
+  "homepage": "https://github.com/ALPHACLOUDSOUND/online-chatroom#readme",
   "dependencies": {
     "express": "^4.17.1",
     "socket.io": "^4.4.1"
-  },
-  "author": "Alan",
-  "license": "MIT"
+  }
 }
